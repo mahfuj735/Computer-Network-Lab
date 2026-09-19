@@ -189,12 +189,18 @@ Computer-Network-Lab/
 │   ├── CN-Assignment-Network-Devices.docx
 │   └── assets/ (device diagrams)
 │
-└── 06-Lab-Reports/                                 # Official Lab Manual
-    ├── README.md
-    ├── CN-Lab-Report-Complete.pdf
-    ├── CN-Lab-Report-Complete.docx
-    ├── CoverPage.pdf
-    └── page5.pdf
+├── 06-Lab-Reports/                                 # Official Lab Manual
+│   ├── README.md
+│   ├── CN-Lab-Report-Complete.pdf
+│   ├── CN-Lab-Report-Complete.docx
+│   ├── CoverPage.pdf
+│   └── page5.pdf
+│
+├── Dynamic Router Configuration/                   # Original YouTube video linked setup
+│   └── three_router(dynamic).pkt
+│
+└── Static Router Configuration/                    # Original YouTube video linked setup
+    └── three_router(static).pkt
 ```
 
 ---
